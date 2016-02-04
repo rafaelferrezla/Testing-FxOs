@@ -1,0 +1,39 @@
+{
+  "version": "0.0.1",
+  "name": "testing FxOs",
+  "description": "An app with minimal structure",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/images/icon16x16.png",
+    "48": "/images/icon48x48.png",
+    "60": "/images/icon60x60.png",
+    "128": "/images/icon128x128.png"
+  },
+  "developer": {
+    "name": "Rafael Ferrez 'TheBoss' ",
+    "url": "https://twitter.com/rafaelferrezla",
+    "url": "https://github.com/rafaelferrezla",
+     "url": "http://log-del-boss.blogspot.com"
+  },
+  "type": "privileged",
+  "permissions": {},
+  "installs_allowed_from": [
+    "*"
+  ],
+  "locales": {
+    "es": {
+      "name": "probando FxOs",
+      "description": "Una app con la mínima estructura posible",
+      "permissions": {}
+    },
+
+    "en": {
+      "name": "testing FxOs",
+      "description": "App with minimal structure",
+      "permissions": {}
+    }
+  },
+  "default_locale": "en",
+  "fullscreen": "true",
+  "orientation": "portrait-primary"
+}
